@@ -39,5 +39,5 @@ Strategi untuk mengurangi Churn berdasarkan data:
 3.  **Edukasi Pembayaran:** Dorong penggunaan *Auto-pay* (Kartu Kredit/Transfer Otomatis) untuk mengurangi "pain of paying" setiap bulan.
 
 ---
-**Author:** [Nama Anda]
+**Author:** [M. Paksi Pratama]
 **Dataset:** [Telco Customer Churn on Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
