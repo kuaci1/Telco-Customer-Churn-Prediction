@@ -14,7 +14,7 @@ Proyek ini bertujuan untuk memprediksi perilaku **Customer Churn** (pelanggan ya
 * **Data Preprocessing:** One-Hot Encoding, StandardScaler, SMOTE (Optional)
 
 ## Key Insights (EDA)
-Berdasarkan Exploratory Data Analysis, kami menemukan profil pelanggan "High Risk":
+Berdasarkan Exploratory Data Analysis, kami menemukan profil pelanggan "High Risk" sebagai berikut:
 1.  **Layanan Internet:** Pengguna **Fiber Optic** memiliki tingkat churn tertinggi (kemungkinan karena masalah harga/kualitas).
 2.  **Kontrak:** Pengguna dengan kontrak **Month-to-month** sangat rentan berpindah dibandingkan kontrak tahunan.
 3.  **Pembayaran:** Metode **Electronic Check** memiliki korelasi kuat dengan keputusan churn.
@@ -31,4 +31,4 @@ Model terbaik menggunakan algoritma **Random Forest** dengan hasil evaluasi seba
 Strategi untuk mengurangi Churn berdasarkan data yang didapatkan
 1.  **Fokus pada "Golden Window":** Berikan perhatian khusus pada pelanggan baru (0-6 bulan pertama) karena mereka paling rentan.
 2.  **Konversi Kontrak:** Tawarkan insentif diskon bagi pelanggan bulanan untuk beralih ke kontrak 1 atau 2 tahun.
-3.  **Edukasi Pembayaran:** Dorong penggunaan *Auto-pay* (Kartu Kredit/Transfer Otomatis) untuk mengurangi "pain of paying" setiap bulan.
+3.  **Edukasi Pembayaran:** Dorong penggunaan *Auto-pay* Kartu Kredit/Transfer Otomatis untuk mengurangi "pain of paying" setiap bulan.
