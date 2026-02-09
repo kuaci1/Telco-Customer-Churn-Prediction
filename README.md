@@ -32,6 +32,3 @@ Strategi untuk mengurangi Churn berdasarkan data:
 1.  **Fokus pada "Golden Window":** Berikan perhatian khusus pada pelanggan baru (0-6 bulan pertama) karena mereka paling rentan.
 2.  **Konversi Kontrak:** Tawarkan insentif diskon bagi pelanggan bulanan untuk beralih ke kontrak 1 atau 2 tahun.
 3.  **Edukasi Pembayaran:** Dorong penggunaan *Auto-pay* (Kartu Kredit/Transfer Otomatis) untuk mengurangi "pain of paying" setiap bulan.
-
-**Author:** [M. Paksi Pratama]
-**Dataset:** [Telco Customer Churn on Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
