@@ -28,7 +28,7 @@ Model terbaik menggunakan algoritma **Random Forest** dengan hasil evaluasi seba
     3.  `tenure` (Loyalitas/Durasi Langganan)
 
 ## Business Recommendations
-Strategi untuk mengurangi Churn berdasarkan data:
+Strategi untuk mengurangi Churn berdasarkan data yang didapatkan
 1.  **Fokus pada "Golden Window":** Berikan perhatian khusus pada pelanggan baru (0-6 bulan pertama) karena mereka paling rentan.
 2.  **Konversi Kontrak:** Tawarkan insentif diskon bagi pelanggan bulanan untuk beralih ke kontrak 1 atau 2 tahun.
 3.  **Edukasi Pembayaran:** Dorong penggunaan *Auto-pay* (Kartu Kredit/Transfer Otomatis) untuk mengurangi "pain of paying" setiap bulan.
